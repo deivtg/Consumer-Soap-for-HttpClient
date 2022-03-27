@@ -1,0 +1,15 @@
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.csproj.AssemblyReference.cache
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.AssemblyInfoInputs.cache
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.AssemblyInfo.cs
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.csproj.CoreCompileInputs.cache
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\bin\Debug\net6.0\ConsumerSoap.exe
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\bin\Debug\net6.0\ConsumerSoap.deps.json
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\bin\Debug\net6.0\ConsumerSoap.runtimeconfig.json
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\bin\Debug\net6.0\ConsumerSoap.dll
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\bin\Debug\net6.0\ConsumerSoap.pdb
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.dll
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\refint\ConsumerSoap.dll
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.pdb
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ConsumerSoap.genruntimeconfig.cache
+C:\Users\David Tocay\Documents\2022\practicas\dev\ConsumerSoap\obj\Debug\net6.0\ref\ConsumerSoap.dll
